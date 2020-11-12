@@ -7,7 +7,7 @@ Running an adaptation of from the example on [this site](https://pytorch.org/cpp
 
 ## Input files: 
 
-**CMake*.txt**
+**CMakeLists.txt**
 
 **example-app.cpp**
 
@@ -16,9 +16,11 @@ Running an adaptation of from the example on [this site](https://pytorch.org/cpp
 ## Compilation (run line by line): 
 
 mkdir build
+
 cd build
 
 cmake -DCMAKE_PREFIX_PATH=/path/to/libtorch
+
 cmake --build . --config Release
 
 
