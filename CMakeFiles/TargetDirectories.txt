@@ -1,3 +1,0 @@
-/home/andrew/scripts/torch cpp/CMakeFiles/rebuild_cache.dir
-/home/andrew/scripts/torch cpp/CMakeFiles/edit_cache.dir
-/home/andrew/scripts/torch cpp/CMakeFiles/example-app.dir
