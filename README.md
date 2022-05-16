@@ -20,3 +20,7 @@ cmake --build . --config Release
 ```ruby
 ./example-app
 ```
+
+## Contributors
+
+- [Andrew Garcia](https://github.com/andrewrgarcia) - creator and maintainer
