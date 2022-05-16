@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+#input files 
+!example-app.cpp
+!CMakeLists.txt
+
+#README
+!README.md
+!.gitignore
+
+#Ignores all build files  BUT input and output files
